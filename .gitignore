@@ -1,0 +1,15 @@
+# Compiled files
+/target/
+/out/
+
+# IDEs
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs e banco
+*.log
+*.db
